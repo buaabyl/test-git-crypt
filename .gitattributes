@@ -1,1 +1,3 @@
 crypt/      export-ignore
+.git-crypt  export-ignore
+
