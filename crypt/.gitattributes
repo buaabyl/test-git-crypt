@@ -1,0 +1,9 @@
+*.key           filter=git-crypt diff=git-crypt
+.gitattributes  !filter !diff
+
+*               text=auto
+*.txt		    text
+*.vcproj	    text eol=crlf
+*.sh		    text eol=lf
+*.jpg		    -text
+
